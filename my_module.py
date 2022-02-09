@@ -8,4 +8,5 @@ def mul(a, b):
     return a*b
 
 def div(a, b):
-    return a/b  #master branch add annotation
+    return a//b  #master branch add annotation
+
